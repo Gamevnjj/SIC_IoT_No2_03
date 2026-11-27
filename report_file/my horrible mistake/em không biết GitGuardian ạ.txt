@@ -1,0 +1,8 @@
+em để token và app passwords (của tài khoản chính của em)
+
+sau khi public thì GitGuardian có nhắn tin cho em thông báo về việc leak token của con bot telegram
+
+sau đó em phải xóa từng commit 1 (tiện check xem có bị sót dữ liệu gì không)
+
+do đây là lần đầu em public project của em nên em không biết như thế ạ
+=> em không chắc GitGuardian có an toàn để sử dụng không
