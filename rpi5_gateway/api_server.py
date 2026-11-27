@@ -1,9 +1,8 @@
 from flask import Flask, jsonify, make_response, request
 
-from test_file import test_hello_channels
+from alert_send import test_hello_channels
 
 app = Flask(__name__)
-
 
 @app.after_request
 def add_cors_headers(response):

@@ -17,7 +17,7 @@ TELEGRAM_CHAT_ID = "---"  # Chat ID của nhóm (thường bắt đầu bằng -
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 465
 SMTP_USER = "---"
-SMTP_PASS = "udtlwqwwaysdhxbv"
+SMTP_PASS = "---"
 TO_EMAILS = [
     "---",
     "---",
